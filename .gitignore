@@ -8,3 +8,6 @@ Supprimerait .idea/misc.xml
 Supprimerait .idea/modules.xml
 Supprimerait .idea/vcs.xml
 Supprimerait .idea/webpack-course.iml
+!/.idea/
+/yarn.lock
+/dist/
